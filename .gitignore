@@ -31,13 +31,4 @@ __MACOSX/
 *.tmp
 *.swp
 
-# Ignore video and image cache (if not needed)
-*.mp4
-*.png
-*.jpeg
-*.jpg
-*.gif
 
-# Ignore duplicate project folders
-lesson_15_project_Store/__MACOSX/
-lesson_15_project_Store/lesson_15_project_Store/
